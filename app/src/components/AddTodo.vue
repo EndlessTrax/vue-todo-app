@@ -49,4 +49,7 @@ input[type="submit"] {
   font-family: Arial, Helvetica, sans-serif;
   text-transform: uppercase;
 }
+.submit-btn:hover {
+    background: green;
+}
 </style>

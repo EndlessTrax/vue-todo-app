@@ -41,4 +41,7 @@ export default {
   cursor: pointer;
   float: right;
 }
+.del:hover {
+    background: #ff9999;
+}
 </style>
